@@ -4,6 +4,10 @@
 
 I'm finishing my Bachelor of Data Science at Victoria University (Melbourne) in October 2026. I build things that solve actual problems for actual businesses — not just coursework demos.
 
+### [Portfolio](https://imuhammadsaboor.github.io) | [Live Dashboard](https://imuhammadsaboor.github.io/hospitality-accounting/) | [Email](mailto:bmuhammadsaboor@gmail.com)
+
+---
+
 ## What I'm working on
 
 **Hospitality Data Pipeline** — End-to-end ELT pipeline for a Melbourne hospitality business. Timesheet intake, payroll processing (Australian Award rates), BAS/GST calculation, weekly P&L, and a live KPI dashboard. Replaced ~4 hours/week of manual spreadsheet work and saves the business ~$2,000/quarter in accountant fees.
@@ -34,6 +38,7 @@ I'm finishing my Bachelor of Data Science at Victoria University (Melbourne) in 
 
 ## Get in touch
 
+- **Portfolio:** [imuhammadsaboor.github.io](https://imuhammadsaboor.github.io)
 - Based in Melbourne, VIC
 - Available for graduate roles, contract work, and freelance
 - bmuhammadsaboor@gmail.com
