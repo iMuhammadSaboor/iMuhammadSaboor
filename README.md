@@ -1,12 +1,23 @@
 # Muhammad Saboor
 
-**Final-year Data Science student | Python & SQL | Building real pipelines, not just assignments**
+**Aspiring AI Engineer & Data Automation Builder | Python • SQL • OpenAI API • Claude API • RAG • Automation**
 
 I'm finishing my Bachelor of Data Science at Victoria University (Melbourne) in October 2026. I build things that solve actual problems for actual businesses — not just coursework demos.
 
 ### [Portfolio](https://imuhammadsaboor.github.io) | [Live Dashboard](https://imuhammadsaboor.github.io/hospitality-accounting/) | [Email](mailto:bmuhammadsaboor@gmail.com)
 
 ---
+
+## Featured Projects
+
+### Hospitality Accounting Automation
+Real business automation pipeline for a Melbourne hospitality business. Automated payroll, BAS/GST, P&L reporting, and KPI dashboards.
+
+### AI YouTube Automation Pipeline
+End-to-end AI content pipeline using OpenAI, Pexels API, Edge TTS, MoviePy, and Pillow.
+
+### Customer Churn Prediction API
+Machine learning classification model with feature engineering, model evaluation, and Flask API deployment.
 
 ## What I'm working on
 
@@ -20,15 +31,12 @@ I'm finishing my Bachelor of Data Science at Victoria University (Melbourne) in 
 
 ## Tech I use daily
 
-`Python` `SQL` `SQLite` `REST APIs` `Git` `Claude Code` `Claude API` `OpenAI API`
+`Python` `SQL` `SQLite` `REST APIs` `Git` `Claude Code` `Claude API` `OpenAI API` `dbt` `Snowflake` `Databricks` `Microsoft Fabric` `RAG / retrieval systems`
 
 ## Tech I'm building with
 
 `Pandas` `MoviePy` `Pillow` `Edge TTS` `n8n` `Make`
 
-## Currently learning
-
-`dbt` `Snowflake` `Databricks` `Microsoft Fabric` `RAG / retrieval systems`
 
 ## Certifications
 
